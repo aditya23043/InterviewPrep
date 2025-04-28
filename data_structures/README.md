@@ -1,0 +1,12 @@
+# Data Structures
+- Linear
+	- Static
+		- Array
+	- Dynamic
+		- Queue
+		- Stack
+		- Linked List
+		- Dynamic Contiguous Array
+- Non Linear
+	- Tree
+	- Graph
